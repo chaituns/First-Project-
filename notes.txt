@@ -1,0 +1,3 @@
+1. This is my first project
+2. This project is adding to git.
+3. Learning how to add and edit and commit changes.
